@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Boss",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/768px-ChatGPT_logo.svg.png",
+        "type": "video"
+        ,"data": 0
+    },
+    {
+        "id": 1,
+        "url": "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/286748902_2993008607663641_7883390839692013101_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mVo0Mgq_kCcQ7kNvgGxK4pK&_nc_ht=scontent.ftbs6-2.fna&oh=00_AYDOaXeMeEpx2hoZaxi_iOvaThluD5dv3aPnhSDXlo_r3Q&oe=664EE58C"
+        ,"name": "ნიკა ბოსტო(ნატრო)ღანაშვილი",
+        "type": "video",
+        "data": 1
+    },
+    {
+        "id": 2,
+        "name": "მანანა(მანჩო) გურგენიშვილი",
+        "url": "https://i.imgur.com/Co6FHgT.png",
+        "type": "video"
+        ,"data": 2
+    },
+    {
+        "id": 3,
+        "name": "ლიზიკო('კონსპექტ'ოლოგი) ჯიჯელავა",
+        "url": "https://i.imgur.com/MNpQc7m.jpeg",
+        "type": "img"
+        ,"data": 3
+    },
+    {
+        "id": 4,
+        "name": "ანი(პრინცესა🎀)",
+        "url": "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/306439219_592946288994193_1039203757480158492_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=zunBtEVsN7YQ7kNvgHmUgV-&_nc_ht=scontent.ftbs6-2.fna&oh=00_AYBPZ2nWfBxp0seaIl8vefJevcGPVp5pty0TakbSLeNZAA&oe=664FFEF8",
+        "type": "img",
+        "data": 4
+    },
+    {
+        "id": 5,
+        "name": "დავით(ყიფშო) ყიფშიძე",
+        "url": "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/385057617_7012769505449741_950314963420983118_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yQRK4z2fhSAQ7kNvgHMBtm5&_nc_ht=scontent.ftbs6-2.fna&oh=00_AYBdML-E7Hd-SZfWGmrSMpKwQ8ZXqjU1xDiOY5hHyWW5Rw&oe=665015BB",
+        "type": "video",
+        "data": 5
+    },
+    {
+        "id": 6,
+        "name": "ნიკოლოზ კუჭუხიძე(კუჭუხა)",
+        "url": "https://i.imgur.com/uF5Xwgl.png",
+        "type": "video",
+        "data": 6
+    },
+    {
+        "id": 7,
+        "name": "ნიაკო კობალაძე",
+        "url": "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/358666872_3733491280211793_1837971000528107466_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KRhEu4Hk5XAQ7kNvgH4SE4r&_nc_ht=scontent.ftbs6-2.fna&oh=00_AYDqPhduEV5TnvKFMjQsYo_IMkaAL7DHpkqWFF53dziWBA&oe=66500520"
+        ,"type": "img",
+        "data": 7
+    },
+
+    {
+        "id": 8,
+        "name": "ანასტასია(ტასო) ალშიბაია",
+        "url": "https://scontent.ftbs6-2.fna.fbcdn.net/v/t39.30808-6/349319428_956966375439082_361172681654088072_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Qvl8bPpsBpIQ7kNvgFnFQr0&_nc_ht=scontent.ftbs6-2.fna&oh=00_AYBmXPhkI_jUP48ySIr3BtkPfKfyDihVifkFflqdnxCaKg&oe=66502C17",
+        "type": "img",
+        "data": 8
+    },
+    {
+        "id": 10,
+        "name": "ნიკუშა სარქისიანი a.k. ნიქსონი",
+        "url": "https://i.imgur.com/ZI0Q8va.png",
+        "type": "video"
+        ,"data": 10
+    }
+
+]
